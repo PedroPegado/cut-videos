@@ -1,0 +1,7 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+yt-dlp[default]>=2026.3.17
+pydantic-settings>=2.8,<3
+psutil>=6,<8
+pytest>=8,<10
+httpx>=0.28,<1
